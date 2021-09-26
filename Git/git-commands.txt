@@ -1,0 +1,4 @@
+For Git Help - git -h
+To Initialize Git - git init -b main
+To create a repo in GitHub - gh repo create <repo-name>
+To add all tracked and untracked files - git add --all
