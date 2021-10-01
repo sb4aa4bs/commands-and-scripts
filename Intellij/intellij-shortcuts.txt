@@ -1,0 +1,1 @@
+select the classname + alt + enter = options to run, debug, create test classes & add comments etc
